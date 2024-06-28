@@ -44,7 +44,7 @@ Après avoir démarré les serveurs front-end et back-end, ouvrez votre navigate
 
 ## Contribution
 
-Un grand merci à Quentin Nicolle, qui en tant que formateur à l'ICSSA, est intervenu pour nous initier à Node.js :
+Merci à Quentin Nicolle, qui en tant que formateur à l'ICSSA, est intervenu pour nous initier à Node.js :
 
 - [@quentinncl](https://github.com/quentinncl)
 
